@@ -2,7 +2,7 @@
 
 This repository is for C++ learning and testing.
 
-At the beginning of the learning curve, being able to test out snipppets of C++ code in Jupyter Notebook is so much better than having to create an entire new project without knowing anything. The learning experience is smoother if we can learn C++ the way we learn Python. So here's how I got C++ in my Jupyter Notebook. (macOS High Sierra, Version 10.13.6)
+At the beginning of the learning curve, being able to test out snipppets of C++ code in Jupyter Notebook is oftentimes so much better than having to create an entire new project in Xcode or something without even knowing the basics. The learning experience is smoother if we can learn C++ the way we learn Python. So here's how I got C++ in my Jupyter Notebook. (macOS High Sierra, Version 10.13.6)
 
 - Install `xeus-cling`. Follow the instructions on [xeus-cling GitHub page](https://github.com/QuantStack/xeus-cling). The installation uses `conda`.
 - `source activate cling` in terminal for activation.
