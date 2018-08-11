@@ -11,4 +11,4 @@ At the beginning of the learning curve, being able to test out snipppets of C++ 
 - `cd` back to your normal directory (in my case it would be `cd /Users/Edward/`). When did right, the prompt in terminal reads like this: `~ your_user_name$`, or, in my case, `~ Edward$`.
 - Fire up Jupyter Notebook (`~ Edward$ jupyter notebook`).
 
-Of course, this is not to say that we should stay in Jupyter Notebook for the entirety of our learning curve. I just think that it would be better if beginners start out in Jupyter Notebook so that they're not immediately thrown into projects. My experience is that after some fimiliarization in the notebook, things are easier when I move on to Xcode.
+Of course, this is not to say that we should, or even _could_ stay in Jupyter Notebook for the entirety of our learning curve. I just think that it would be better if beginners start out in Jupyter Notebook so that they're not immediately thrown into projects. My experience is that after some fimiliarization in the notebook, things are easier when I move on to Xcode.
