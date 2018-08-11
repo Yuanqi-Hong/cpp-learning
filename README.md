@@ -16,4 +16,4 @@ Of course, this is not to say that we should, or even _could_ stay in Jupyter No
 Sidenotes:
 - Jupyter Notebook doesn't do the best job in formatting your code. Text editors like Sublime Text or IDEs like Xcode do a much better job.
 - Jupyter Notebook also isn't the best choice if the code contains things like taking user inputs. Better run that elsewhere. Like mentioned before, Jupyter Notebook is only good for initial explorations (for people coming from the Python/pandas/Jupyter land).
-- You [can't build/run a lonely `.cpp` file using Xcode](https://stackoverflow.com/questions/33523814/how-to-run-a-cpp-file-by-xcode-without-adding-it-to-a-project). Xcode only runs entire projects. To run a single script, use terminal to compile.
+- You [can't build/run a lonely `.cpp` file using Xcode](https://stackoverflow.com/questions/33523814/how-to-run-a-cpp-file-by-xcode-without-adding-it-to-a-project). Xcode only runs entire projects. To run a single script, use terminal to compile. Sample projects/scripts can be found in [this folder](https://github.com/Yuanqi-Hong/cpp/tree/master/Xcode_projects).
