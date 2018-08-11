@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  hello_world
-//
-//  Created by  Edward Hong on 8/8/18.
-//  Copyright © 2018  Edward Hong. All rights reserved.
-//
+//  Created by Edward Hong on 8/8/18.
 
 #include <iostream>
 

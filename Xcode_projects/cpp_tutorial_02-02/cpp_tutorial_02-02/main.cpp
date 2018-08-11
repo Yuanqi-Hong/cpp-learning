@@ -10,12 +10,11 @@
 int main() {
     
     std::string sAge = "0";
-    int nGrade = 0;
     std::cout << "Enter age: ";
     getline(std::cin, sAge);
     int nAge = std::stoi(sAge);
     
-//  Note that you can leave out the curly brackets if it's only one line
+    //  Note that you can leave out the curly brackets if it's only one line
     if (nAge < 5)
         std::cout << "Too young for school\n";
     else if (nAge == 5)

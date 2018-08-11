@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  cpp_tutorial_01-03
-//
-//  Created by  Edward Hong on 8/11/18.
-//  Copyright © 2018  Edward Hong. All rights reserved.
-//
+//  Created by Edward Hong on 8/11/18.
 
 #include <cstdlib>
 #include <iostream>
