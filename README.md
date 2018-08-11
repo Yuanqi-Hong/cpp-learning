@@ -12,3 +12,6 @@ At the beginning of the learning curve, being able to test out snipppets of C++ 
 - Fire up Jupyter Notebook (`~ Edward$ jupyter notebook`).
 
 Of course, this is not to say that we should, or even _could_ stay in Jupyter Notebook for the entirety of our learning curve. I just think that it would be better if beginners start out in Jupyter Notebook so that they're not immediately thrown into projects. My experience is that after some fimiliarization in the notebook, things are easier when I move on to Xcode.
+
+Sidenotes:
+- Jupyter Notebook doesn't do the best job in formatting your code. Text editors like Sublime Text or IDEs like Xcode do a much better job.
