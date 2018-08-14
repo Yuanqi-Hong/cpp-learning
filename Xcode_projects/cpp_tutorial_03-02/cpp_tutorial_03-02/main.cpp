@@ -13,11 +13,10 @@
 double AddNumbers(double num1, double num2);
 
 int main() {
-    //  call the function here
     double num1, num2;
-    std::cout << "Enter Num1: ";
+    std::cout << "Enter Number 1: ";
     std::cin >> num1;
-    std::cout << "Enter Num2: ";
+    std::cout << "Enter Number 2: ";
     std::cin >> num2;
     printf("%.1f + %.1f = %.1f\n", num1, num2, AddNumbers(num1, num2));
     return 0;
