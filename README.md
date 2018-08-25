@@ -14,6 +14,7 @@ At the beginning of the learning curve, being able to test out snipppets of C++ 
 Of course, this is not to say that we should, or even _could_ stay in Jupyter Notebook for the entirety of our learning curve. I just think that it would be better if beginners start out in Jupyter Notebook so that they're not immediately thrown into projects. My experience is that after some fimiliarization in the notebook, things are easier when I move on to Xcode.
 
 Sidenotes:
+- Don't open too many notebooks at once. Jupyter Notebook has a limit of simultaneously running notebooks.
 - Jupyter Notebook doesn't do the best job in formatting your code. Text editors like Sublime Text or IDEs like Xcode do a much better job.
 - Jupyter Notebook also isn't the best choice if the code contains things like taking user inputs. Better run that elsewhere. Like mentioned before, Jupyter Notebook is only good for initial explorations (for people coming from the Python/pandas/Jupyter land). Also, the code in the notebooks can be copied into scripts or projects.
 - You [can't build/run a lonely `.cpp` file using Xcode](https://stackoverflow.com/questions/33523814/how-to-run-a-cpp-file-by-xcode-without-adding-it-to-a-project). Xcode only runs entire projects. To run a single script, use terminal to compile. Sample projects/scripts can be found in [this folder](https://github.com/Yuanqi-Hong/cpp/tree/master/Xcode_projects).
