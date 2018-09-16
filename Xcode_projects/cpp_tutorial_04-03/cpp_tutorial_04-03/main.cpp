@@ -18,7 +18,7 @@ int main() {
         if(num2 == 0){
             throw "Division by zero is not possible";
         } else {
-            printf("%.1f / %.1f = %.2f", num1, num2, (num1/num2));
+            printf("%.1f / %.1f = %.2f\n", num1, num2, (num1/num2));
         }
     }
     
