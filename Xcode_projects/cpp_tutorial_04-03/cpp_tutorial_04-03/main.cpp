@@ -1,4 +1,4 @@
-//  Created by Edward Hong on 9/16/18.
+// Created by Edward Hong on 9/16/18.
 
 #include <cstdlib>
 #include <iostream>
